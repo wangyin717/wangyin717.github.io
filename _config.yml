@@ -1,11 +1,11 @@
 # Site settings
-title: Lance's Blog
+title: Yin's Blog
 email:
 description: "Riffs."
 baseurl: ""
-url: "http://lmart999.github.io"
-twitter_username: RLanceMartin
-github_username: lmart999
+url: "https://github.com/wangyin717"
+twitter_username: wangyin717
+github_username: wangyin717
 
 # Build settings
 markdown: redcarpet
